@@ -20,7 +20,7 @@ Skill level: **Intermediate**
 ### 🍌 BananaFlick
 A mobile app project I’m actively working on and iterating as I learn.
 
-👉 Repository: https://github.com/<OTHER-ACCOUNT-USERNAME>/<BANANAFLICK-REPO>
+👉 Repository: https://github.com/BananaFlick-App/BananaFlick.git
 
 *(More features and improvements coming as the project evolves.)*
 
